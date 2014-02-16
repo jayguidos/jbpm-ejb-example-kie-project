@@ -7,18 +7,6 @@
   <version>1.0.0</version>
   <name>WorkDay</name>
   <description>Simple model of processes to be executed on a work day</description>
-  <dependencies>
-    <dependency>
-      <groupId>demo-jbpm</groupId>
-      <artifactId>demo-domain</artifactId>
-      <version>1.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>javax.validation</groupId>
-      <artifactId>validation-api</artifactId>
-      <version>1.0.0.GA</version>
-    </dependency>
-  </dependencies>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>
